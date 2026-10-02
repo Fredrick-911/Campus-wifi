@@ -62,7 +62,7 @@ wifi-packages/
 
 ```bash
 # Clone the repository (or download the folder)
-cd wifi-packages
+cd Campus-wifi-
 
 # Install dependencies
 npm install
